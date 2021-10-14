@@ -22,7 +22,7 @@ public class Arrays
                     break;
                 }
             }
-            if(ch!=1)
+            if(ch=1)
                 arr.add(a[i]);
         }
         System.out.println("The new length of the array is :"+arr.size());
